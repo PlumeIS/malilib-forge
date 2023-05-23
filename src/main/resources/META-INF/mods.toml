@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[39,)"
+license = "LGPLv3"
+
+[[mods]]
+modId = "malilib"
+version = "${version}"
+displayName = "MaLiLib"
+description = '''
+A library mod required by masa's client-side mods
+'''
+authors="masa"
